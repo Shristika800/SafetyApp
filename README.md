@@ -1,18 +1,55 @@
-# SafetyApp
+# SafetyApp 🛡️
 
-## How to run
-1. npm install
-2. npx expo start
-3. Scan QR with Expo Go
-
-## Test credentials
-- Any 10 digit mobile number
-- Any password 6+ characters
-- OTP: 123456
+A mobile safety MVP built with React Native (Expo).
 
 ## Features
 - User Registration & Login
-- OTP Verification
-- SOS Alert with timestamp
-- GPS Location
-- Incident Reporting with image
+- OTP Verification (Demo OTP: 123456)
+- SOS Alert with timestamp history
+- GPS Location display
+- Incident Reporting with image upload
+
+## Tech Stack
+- React Native (Expo)
+- JavaScript
+
+## How to Run
+1. Clone the repo
+2. Run: npm install
+3. Run: npx expo start
+4. Scan QR code with Expo Go app
+
+## Test Credentials
+- Any 10 digit mobile number
+- Any password (min 6 characters)
+- OTP: 123456
+
+## Built by
+Shristika Rai - May 2026# SafetyApp 🛡️
+
+A mobile safety MVP built with React Native (Expo).
+
+## Features
+- User Registration & Login
+- OTP Verification (Demo OTP: 123456)
+- SOS Alert with timestamp history
+- GPS Location display
+- Incident Reporting with image upload
+
+## Tech Stack
+- React Native (Expo)
+- JavaScript
+
+## How to Run
+1. Clone the repo
+2. Run: npm install
+3. Run: npx expo start
+4. Scan QR code with Expo Go app
+
+## Test Credentials
+- Any 10 digit mobile number
+- Any password (min 6 characters)
+- OTP: 123456
+
+## Built by
+Shristika Rai - May 2026
