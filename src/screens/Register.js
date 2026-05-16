@@ -2,7 +2,7 @@
 
 import React, { useState} from 'react';
 import { View, Text, TextInput, TouchableOpacity, Alert, StyleSheet } from 'react-native';
-export default function ({navigation}){
+export default function Register({navigation}){
 const [mobile, setMobile] = useState('');
 const [password, setPassword]= useState('');
 

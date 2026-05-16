@@ -1,7 +1,7 @@
 // built by Shristika Rai - May 2026
 
 import React, {useState} from 'react';
-import { View, Text, TextInput, Alert, TouchableOpacity } from 'react-native';
+import { View, Text, TextInput, Alert, TouchableOpacity, StyleSheet, ScrollView} from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
 import * as Location from 'expo-location';
 
